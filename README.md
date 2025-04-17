@@ -58,7 +58,7 @@ To build a **data engineering pipeline** that automates the collection, processi
 - You can leverage Ubuntu server 128.85.32.87, the user and the password were shared in the class. 
  
 Project Duration: From 18th April 2025 to 26th April 2025. 
-- Daily standups everyday from Teuday, 9:30 to 10:00 PM EAT
+- Daily standups everyday from Teusday, 9:30 to 10:00 PM EAT
 - You work should be tracked on a  GitHub Repository and the luink shared during the first stand up.
 - Write an article documenting the whole proccess how you solved the end to end project.
 
