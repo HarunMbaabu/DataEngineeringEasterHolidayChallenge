@@ -20,7 +20,7 @@ Manual data collection and analysis is error-prone, inconsistent, and not scalab
 
 ---
 
-#### 🎯 Objective
+#### Objective
 
 To build a **data engineering pipeline** that automates the collection, processing, and visualization of YouTube channel data for a creator or content strategist. The solution should:
 
@@ -31,7 +31,7 @@ To build a **data engineering pipeline** that automates the collection, processi
 - ✅ **Display** key analytics on a Grafana dashboard to support decision-making. We have Grafana installed on the ubuntu server 128.85.32.87. 
 ---
 
-#### 🔍 Key Questions the Dashboard Should Answer
+#### Key Questions the Dashboard Should Answer
 - 📈 How has my channel grown over time? (Pick a specicif channel to work with example, youtube.com/@cristiano or youtube.com/@luxtechacademy. 
 - 🎥 Which videos perform best by engagement (likes/comments/views)?
 - ⏱️ What days and times work best for publishing content?
