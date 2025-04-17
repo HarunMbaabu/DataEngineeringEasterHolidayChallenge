@@ -1,4 +1,4 @@
-## **Data Engineering Easter Holiday Challenge.
+## **Data Engineering Easter Holiday Challenge.**
 
 ### **Problem Statement: YouTube Channel Analytics Dashboard**
 In the creator economy, YouTube content creators produce vast amounts of video content and rely heavily on performance metrics to guide their strategies. However, YouTube's native dashboard can be limited in flexibility, depth, and custom visualization. Creators often lack a centralized, customizable platform to analyze how their videos perform over time, track audience engagement trends, and gain insights into what type of content works best.
